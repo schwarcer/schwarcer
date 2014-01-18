@@ -9,6 +9,6 @@ public class RepoTest
     
     public void ScreenPrint()
     {
-        System.out.println("Dies ist ein RepoTester!");
+        System.out.println("Dies ist ein RepoTestering!");
     }
 }
